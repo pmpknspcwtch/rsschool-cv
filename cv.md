@@ -3,8 +3,7 @@
 # Contacts
 
 - Location: Rostov-on-Don, Russia
-- Telegram: [pmpknspcwtch](https://t.me/gngr_qnn)
-- Email: alexandrite96@rambler.ru
+- Telegram: [gngr_qnn](https://t.me/gngr_qnn)
 - Github: [pmpknspcwtch](https://github.com/pmpknspcwtch)
 - Discord: pumpkin spice sunny#8565
 
@@ -25,3 +24,8 @@ function unscrambleEggs(word){
   return word.split("egg").join("")
 }
 ```
+
+# Languages
+
+- Russian - Native
+- English - B2
